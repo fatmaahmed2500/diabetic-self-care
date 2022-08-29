@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name1">Diabetics Self Care</string>
+    <string name="welcome">welcome…</string>
+    <string name="login">login</string>
+    <string name="email">Email</string>
+    <string name="password1">password</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_your_e_mail">Enter your e-mail</string>
+    <string name="remeber_me">Remember me</string>
+    <string name="new_user">New User?</string>
+    <string name="sign_up">Sign Up</string>
+
+
+    <string name="app_name">Diabetics Self Care</string>
+    <string name="create_new_account">Create New account</string>
+    <string name="full_name">Full Name</string>
+
+    <string name="Address">Address</string>
+    <string name="enter_your_address">Enter your address</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="city">Choose your city</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="Email">E_mail</string>
+    <string name="password">password</string>
+    <string name="signup">Sign up</string>
+    <string name="Enter_your_Email">Enter your email</string>
+    <string name="Enter_password">Enter your password</string>
+
+    <string name="applicatin">dash_bord</string>
+    <string name="First">Beat Diabetes</string>
+    <string name="Medication">Medication</string>
+    <string name="Meals">Meals</string>
+    <string name="exercise">Exercise</string>
+    <string name="Tests">Tests</string>
+    <string name="facts">important facts</string>
+    <string name="Tips">Tips</string>
+    <string name="title_text" />
+    <string name="beat_diabetes" />
+    <string name="iv_running" />
+
+
+    //spiner
+    <string-array name="country">
+        <item>USA</item>
+        <item>Egypt</item>
+        <item>china</item>
+        <item>Baghdad</item>
+        <item>Rome</item>
+        <item>Tokyo</item>
+    </string-array>
+
+</resources>

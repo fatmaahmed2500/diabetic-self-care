@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/MyApplication2/app/src/main/res/layout/activity_breakfast_main.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/hp/MyApplication2/app/src/main/res/layout/activity_dinner_main.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/hp/MyApplication2/app/src/main/res/layout/activity_exercise_main.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/hp/MyApplication2/app/src/main/res/layout/activity_facts_main.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/hp/MyApplication2/app/src/main/res/layout/activity_lunch_main.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/hp/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/hp/MyApplication2/app/src/main/res/layout/activity_mainpage_main.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/hp/MyApplication2/app/src/main/res/layout/activity_meals_main.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/hp/MyApplication2/app/src/main/res/layout/activity_medicine.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/hp/MyApplication2/app/src/main/res/layout/activity_signup_main.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/hp/MyApplication2/app/src/main/res/layout/activity_splash_screen.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/hp/MyApplication2/app/src/main/res/layout/activity_test_main.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/hp/MyApplication2/app/src/main/res/layout/factscard_layout.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/hp/MyApplication2/app/src/main/res/layout/grid_layout_break_item.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/hp/MyApplication2/app/src/main/res/layout/grid_layout_list_item.xml" value="0.1" />
+        <entry key="..\:/Users/hp/MyApplication2/app/src/main/res/layout/grid_layout_list_item2.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/hp/MyApplication2/app/src/main/res/layout/grid_layout_lunch.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/hp/MyApplication2/app/src/main/res/layout/grid_layout_meal_item.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/hp/MyApplication2/app/src/main/res/layout/grid_layout_medicine_item.xml" value="0.1675213675213675" />
+        <entry key="..\:/Users/hp/MyApplication2/app/src/main/res/layout/list_items.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/hp/MyApplication2/app/src/main/res/layout/testscard_layout.xml" value="0.17798913043478262" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edt_email" type="id" />
+    <item name="edt_password" type="id" />
+    <item name="btn_login" type="id" />
+    <item name="btn_signup" type="id" />
+    <item name="btn_image" type="id" />
+    <item name="edt_name" type="id" />
+    <item name="edt_mail" type="id" />
+    <item name="edt_address" type="id" />
+    <item name="btn_sign_up" type="id" />
+    <item name="edt_pass" type="id" />
+    <item name="tv_pass" type="id" />
+    <item name="tv_mail" type="id" />
+    <item name="rbtn_female" type="id" />
+    <item name="rbtn_male" type="id" />
+    <item name="spinnerr" type="id" />
+    <item name="tv_city" type="id" />
+    <item name="tv_add" type="id" />
+    <item name="tv_fn" type="id" />
+    <item name="tv1_new" type="id" />
+</resources>
